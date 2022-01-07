@@ -26,10 +26,10 @@ Guitars
 * Civilian Lute (Guitar) - Unknown
 
 Accoustic Guitar (Nylon strings) (25)
-* Evensong Lute
+* Evensong Lute - May be incorrect
 
 Accoustic Guitar (Steel strings) (26)
-* Ironsong Lute
+* Ironsong Lute - May be incorrect
 
 Soothing Guitar - Electric Guitar (jazz) (27)
 * Epherium Cloud Lute
