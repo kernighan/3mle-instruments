@@ -51,13 +51,13 @@ Crafted
 * Epherium Wave Flute (Oboe)
 * Erenor Lute (Soothing Guitar) - 27
 * Harmonic Arpeggio Lute (Nylon string Guitar) - 25
-* Marianople Violin (Violin)
-* Wyrdwind Viola (Viola) (Also available from Vocation badges)
-* Sovereign’s Piano (Accoustic Grand Piano)
+* Marianople Violin (Violin) - 41
+* Wyrdwind Viola (Viola) (Also available from Vocation badges) - 42
+* Sovereign’s Piano (Accoustic Grand Piano) - 1
 * Brown Upright Piano (Honky-Tonk Piano) - 4
 * Princess’s Piano (Electric Grand Piano) - 3
 * Liberty Drums (drums)
-* Triestes Cello (Cello?)
+* Triestes Cello (Cello) -43
 * Noryettes Contrabass (ContraBass)
 * Brahms’ Harmonious Melody (String Ensemble)
 * Zephyr Pipe Organ (Church Organ) - 20
@@ -70,8 +70,9 @@ Hiram
 * Hiram Guardian Lute (Soothing Guitar) - 27
 * Hiram Guardian Flute (Clarinet) - 72
 
-Events
+Event
 
+* Balsam Garden Instrument (Harp) - 47
 * Fortune Pipe (Pipe)
 * Cherry Blossom Lute (Mandolin) - (Dulcimer) 16
 * Frozen Snowflower Pipe (Falling snowflakes)

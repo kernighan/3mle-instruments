@@ -69,6 +69,7 @@ Dulcimer (16)
 * Cherry Blossom Lute
 
 Harp (47)
+* Balsam Garden Instrument
 * Spirits of the Sea
 
 Horn (70)
