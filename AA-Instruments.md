@@ -10,7 +10,6 @@ Honor Shop:
 * Dance of Songcraft (Whistles)
 * Dirge of Occultism (Trombone) - 58
 * Echoes of Malediction (Trombone) - 58
-* Fantasio of Sorcery (Clarinet) - 72
 * Nocturne of Witchcraft (Bagpipes) - 110
 * Ode of Vitalism (Ocarina) - 80
 * Protective Fantasia Shield (Clarinet) - 72
@@ -26,7 +25,7 @@ Marketplace (Gilda, Credits, etc)
 * Evensong Lute (Acoustic Bass) - 33
 * Ironsong Lute (Acoustic Guitar (steel strings)) - 26
 * Meadowlark Banjo (Banjo) - 106
-* Autumn Wind Horn (Horn) - 70
+* Autumn Wind Horn (English Horn) - 70
 * Catspaw Recorder (Recorder) - 75
 * Reedwhisper Piccolo (Piccolo) - 73
 * Stormwail Sax (Saxophone) - 66 (Alto Sax)
@@ -35,21 +34,23 @@ Marketplace (Gilda, Credits, etc)
 
 Crafted
 
-* Epherium Cloud Lute (Soothing Guitar) - 27
-* Epherium Gale Lute (Soothing Guitar) - 27
-* Epherium Meadow Lute (Soothing Guitar) - 27
-* Epherium Life Lute (Powerful Guitar) - 31
-* Epherium Mist Lute (Powerful Guitar) - 31
-* Epherium Tidal Lute (Impressive Guitar) - 30
-* Epherium Wave Lute (Impressive Guitar) - 30
-* Epherium Desert Flute (Bassoon)
-* Epherium Earth Flute (Bassoon)
-* Epherium Flame Flute (Clarinet) - 72
-* Epherium Lake Flute (Clarinet) - 72
-* Epherium Quake Flute (Clarinet) - 72
-* Epherium Sunset Flute (Oboe)
-* Epherium Wave Flute (Oboe)
+* Cloud Lute (Soothing Guitar) - 27
+* Gale Lute (Soothing Guitar) - 27
+* Meadow Lute (Soothing Guitar) - 27
+* Life Lute (Powerful Guitar) - 31
+* Mist Lute (Powerful Guitar) - 31
+* Tidal Lute (Impressive Guitar) - 30
+* Wave Lute (Impressive Guitar) - 30
+* Desert Flute (Bassoon) - 71
+* Earth Flute (Bassoon) - 71
+* Flame Flute (Clarinet) - 72
+* Lake Flute (Clarinet) - 72
+* Quake Flute (Clarinet) - 72
+* Sunset Flute (Oboe) - 69
+* Wave Flute (Oboe) - 69
 * Erenor Lute (Soothing Guitar) - 27
+* Erenor Flute (Clarinet) - 72
+* Radiant Erenor Flute (Clarinet) - 72
 * Harmonic Arpeggio Lute (Nylon string Guitar) - 25
 * Marianople Violin (Violin) - 41
 * Wyrdwind Viola (Viola) (Also available from Vocation badges) - 42
@@ -69,6 +70,7 @@ Hiram
 * Radiant Hiram Guardian Lute (Soothing Guitar) - 27
 * Hiram Guardian Lute (Soothing Guitar) - 27
 * Hiram Guardian Flute (Clarinet) - 72
+* Radiant Hiram Guardian Flute (Clarinet) - 72
 
 Event
 

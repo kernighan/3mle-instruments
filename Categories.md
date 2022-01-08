@@ -7,19 +7,20 @@ Banjo (106)
 * Meadowlark Banjo
 
 Bassoon (71)
-* Epherium Desert Flute
-* Epherium Earth Flute
+* Desert Flute
+* Earth Flute
 
 Cello (43)
 * Triestes Cello
 
 Clarinet (72)
-* Epherium Flame Flute
-* Epherium Lake Flute
-* Epherium Quake Flute
-* Fantasio of Sorcery
+* Erenor Flute
+* Radiant Erenor Flute
+* Flame Flute
+* Lake Flute
+* Quake Flute
 * Protective Fantasia Shield
-* Hiram Guardian Flute
+* Radiant Hiram Guardian Flute
 
 Contrabass - 44
 * Noryettes Contrabass
@@ -54,13 +55,13 @@ Cheerful Guitar - Electric Guitar (clean) (28)
 
 Powerful Guitar - Overdriven Guitar (30)
 * Aria of Archery
-* Epherium Tidal Lute
-* Epherium Wave Lute
+* Tidal Lute
+* Wave Lute
 
 Impressive Guitar - Distortion Guitar (31)
 * Anthem of Battlerage
-* Epherium Life Lute
-* Epherium Mist Lute
+* Life Lute
+* Mist Lute
 
 Acoustic Bass (33)
 * Evensong Lute
@@ -78,15 +79,15 @@ Harp (47)
 * Balsam Garden Instrument
 * Spirits of the Sea
 
-Horn (70)
+English Horn (70)
 * Autumn Wind Horn
 
 Musicbox (11)
 * Andelph Orgel
 
 Oboe (69)
-* Epherium Sunset Flute
-* Epherium Wave Flute
+* Sunset Flute
+* Wave Flute
 
 Ocarina (80)
 * Ode of Vitalism
