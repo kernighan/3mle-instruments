@@ -54,6 +54,9 @@ Impressive Guitar - Distortion Guitar (31)
 Clear Guitar - Koto (108)
 * Ballad of Auramancy
 
+Dulcimer (16)
+* Cherry Blossom Lute
+
 Harp (47)
 * Spirits of the Sea
 
@@ -117,7 +120,6 @@ Whistle (79)
 
 MIDI UNKNOWN
 * Fortune Pipe (Pipe)
-* Cherry Blossom Lute (Mandolin)
 * Frozen Snowflower Pipe (Falling snowflakes)
 * Wraithsong Piano (?)
 * Windwraith's Pipes (?)
