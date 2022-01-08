@@ -58,6 +58,7 @@ Crafted
 * Triestes Cello (Cello?)
 * Noryettes Contrabass (ContraBass)
 * Brahms’ Harmonious Melody (String Ensemble)
+* Zephyr Pipe Organ (Church Organ) - 20
 
 Hiram
 

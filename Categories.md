@@ -73,6 +73,11 @@ Oboe (69)
 Ocarina (80)
 * Ode of Vitalism
 
+Organs
+
+Church Organ (20)
+* Zephyr Pipe Organ
+
 Pianos
 
 Accoustic Grand Piano (1)
