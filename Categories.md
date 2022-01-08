@@ -71,11 +71,15 @@ Ocarina (80)
 * Ode of Vitalism
 
 Pianos
-* Brown Upright Piano - Unknown
-* Princess’s Piano - Unknown
 
 Accoustic Grand Piano (1)
-* Sovereign’s Piano (Accoustic Grand Piano)
+* Sovereign’s Piano
+
+Electric Grand Piano (3)
+* Princess’s Piano
+
+Honky-Tonk Piano (4)
+* Brown Upright Piano
 
 Piccolo (73)
 * Reedwhisper Piccolo

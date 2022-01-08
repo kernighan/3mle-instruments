@@ -14,7 +14,9 @@ SynthesizerName             = MSXspirit.dls
 
 [Instrument presets]
 ; Name (English)              Program No.  MSB LSB Range-below Range-above Reserve * 2
-Piano                        =  1,         0,  0,  0,          0,          0,  0
+Sovereigns Piano             =  1,         0,  0,  0,          0,          0,  0
+Princesses Piano             =  3,         0,  0,  0,          0,          0,  0
+Brown Upright Piano          =  4,         0,  0,  0,          0,          0,  0
 Andelph Orgel                = 11,         0,  0,  0,          0,          0,  0
 Lute                         = 25,         0,  0,  0,          0,          0,  0
 Evensong Lute                = 25,         0,  0,  0,          0,          0,  0
