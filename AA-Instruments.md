@@ -52,8 +52,8 @@ Crafted
 * Marianople Violin (Violin)
 * Wyrdwind Viola (Viola) (Also available from Vocation badges)
 * Sovereign’s Piano (Accoustic Grand Piano)
-* Brown Upright Piano (?)
-* Princess’s Piano (?)
+* Brown Upright Piano (Honky-Tonk Piano) - 4
+* Princess’s Piano (Electric Grand Piano) - 3
 * Liberty Drums (drums)
 * Triestes Cello (Cello?)
 * Noryettes Contrabass (ContraBass)
@@ -67,7 +67,7 @@ Hiram
 Events
 
 * Fortune Pipe (Pipe)
-* Cherry Blossom Lute (Mandolin)
+* Cherry Blossom Lute (Mandolin) - (Dulcimer) 16
 * Frozen Snowflower Pipe (Falling snowflakes)
 * Wraithsong Piano (?)
 * Windwraith's Pipes (?)
