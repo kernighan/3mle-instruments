@@ -56,10 +56,10 @@ Crafted
 * Sovereign’s Piano (Accoustic Grand Piano) - 1
 * Brown Upright Piano (Honky-Tonk Piano) - 4
 * Princess’s Piano (Electric Grand Piano) - 3
-* Liberty Drums (drums)
-* Triestes Cello (Cello) -43
-* Noryettes Contrabass (ContraBass)
-* Brahms’ Harmonious Melody (String Ensemble)
+* Liberty Drums (drums) (MIDI CHANNEL 10, not an instrument)
+* Triestes Cello (Cello) - 43
+* Noryettes Contrabass (ContraBass) - 44
+* Brahms’ Harmonious Melody (String Ensemble) - 49
 * Zephyr Pipe Organ (Church Organ) - 20
 
 Hiram

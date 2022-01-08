@@ -10,6 +10,9 @@ Bassoon (71)
 * Epherium Desert Flute
 * Epherium Earth Flute
 
+Cello (43)
+* Triestes Cello
+
 Clarinet (72)
 * Epherium Flame Flute
 * Epherium Lake Flute
@@ -17,6 +20,9 @@ Clarinet (72)
 * Fantasio of Sorcery
 * Protective Fantasia Shield
 * Hiram Guardian Flute
+
+Contrabass - 44
+* Noryettes Contrabass
 
 Flute (74)
 * Civilian Flute (Guess)
@@ -115,6 +121,9 @@ Alto Sax (66)
 Shamisen (107)
 * Cherry Blossom Shamisen
 
+String Ensemble 1 (49)
+* Brahms’ Harmonious Melody
+
 Trombone (58)
 * Dirge of Occultism
 * Echoes of Malediction
@@ -129,10 +138,6 @@ Whistle (79)
 * Dance of Songcraft
 
 
-* Liberty Drums (drums)
-* Triestes Cello (Cello?)
-* Noryettes Contrabass (ContraBass)
-* Brahms’ Harmonious Melody (String Ensemble)
 
 
 MIDI UNKNOWN
@@ -146,3 +151,6 @@ MIDI UNKNOWN
 * Yata Flute (Happy Yata's party footsteps)
 * Ezna Spirit Flute (Cheerful voices of children)
 * Lore Keeper's Flute (Wind on an autumn night)
+
+OTHER
+* Liberty Drums (drums) MIDI CHANNEL 10, not an instrument table
