@@ -52,6 +52,7 @@ Crafted
 * Erenor Flute (Clarinet) - 72
 * Radiant Erenor Flute (Clarinet) - 72
 * Harmonic Arpeggio Lute (Nylon string Guitar) - 25
+* Harmonic Arpeggio Flute (Flute) - 74
 * Marianople Violin (Violin) - 41
 * Wyrdwind Viola (Viola) (Also available from Vocation badges) - 42
 * Sovereign’s Piano (Accoustic Grand Piano) - 1
@@ -67,15 +68,17 @@ Hiram
 
 * Brilliant Hiram Guardian Lute (Nylon string Guitar) - 25
 * Glorious Hiram Guardian Lute (Nylon string Guitar) - 25
-* Radiant Hiram Guardian Lute (Soothing Guitar) - 27
 * Hiram Guardian Lute (Soothing Guitar) - 27
+* Radiant Hiram Guardian Lute (Soothing Guitar) - 27
 * Hiram Guardian Flute (Clarinet) - 72
 * Radiant Hiram Guardian Flute (Clarinet) - 72
+* Brilliant Hiram Guardian Flute (Flute) - 74
+* Glorious Hiram Guardian Flute (Flute) - 74
 
 Event
 
 * Balsam Garden Instrument (Harp) - 47
-* Fortune Pipe (Pipe)
+* Fortune Pipe (Pipe) - (Pan flute) - 76
 * Cherry Blossom Lute (Mandolin) - (Dulcimer) 16
 * Frozen Snowflower Pipe (Falling snowflakes)
 * Wraithsong Piano (?)
@@ -86,7 +89,7 @@ Event
 * Silver Oasis Lute (Lute played near the ocean)
 * Yata Flute (Happy Yata's party footsteps)
 * Ezna Spirit Flute (Cheerful voices of children)
-* Lore Keeper's Flute (Wind on an autumn night)
+* Lore Keeper's Flute (Wind on an autumn night) - Shakuhachi - 78
 
 Unknown
 * Hellkissed Guitar (Soothing guitar) - 27

@@ -26,11 +26,11 @@ Contrabass - 44
 * Noryettes Contrabass
 
 Flute (74)
-* Civilian Flute (Guess)
+* Harmonic Arpeggio Flute
+* Brilliant Hiram Guardian Flute
+* Glorious Hiram Guardian Flute
 
 Guitars
-
-* Civilian Lute (Guitar) - Unknown
 
 Accoustic Guitar (Nylon strings) (25)
 * Harmonic Arpeggio Lute
@@ -97,6 +97,9 @@ Organs
 Church Organ (20)
 * Zephyr Pipe Organ
 
+Pan Flute (76)
+* Fortune Pipe
+
 Pianos
 
 Accoustic Grand Piano (1)
@@ -118,6 +121,9 @@ Saxophone
 
 Alto Sax (66)
 * Stormwail Sax
+
+Shakuhachi (78)
+* Lore Keeper's Flute
 
 Shamisen (107)
 * Cherry Blossom Shamisen
@@ -142,7 +148,6 @@ Whistle (79)
 
 
 MIDI UNKNOWN
-* Fortune Pipe (Pipe)
 * Frozen Snowflower Pipe (Falling snowflakes)
 * Wraithsong Piano (?)
 * Windwraith's Pipes (?)
@@ -151,7 +156,6 @@ MIDI UNKNOWN
 * Silver Oasis Lute (Lute played near the ocean)
 * Yata Flute (Happy Yata's party footsteps)
 * Ezna Spirit Flute (Cheerful voices of children)
-* Lore Keeper's Flute (Wind on an autumn night)
 
 OTHER
 * Liberty Drums (drums) MIDI CHANNEL 10, not an instrument table
