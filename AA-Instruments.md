@@ -82,7 +82,7 @@ Event
 * Cherry Blossom Lute (Mandolin) - (Dulcimer) 16
 * Flamesinger (Mandolin) - (Picked Bass) 35
 * Fortune Pipe (Pipe) - (Pan flute) - 76
-* Frozen Snowflower Pipe (Falling snowflakes)
+* Frozen Snowflower Pipe (Falling snowflakes) - (Caliope) 83
 * Lore Keeper's Flute - Shakuhachi - 78
 * Sacred Echo (Mandolin)
 * Silver Oasis Lute (Lute played near the ocean)

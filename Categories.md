@@ -10,6 +10,9 @@ Bassoon (71)
 * Desert Flute
 * Earth Flute
 
+Caliope (83)
+* Frozen Snowflower Pipe
+
 Cello (43)
 * Triestes Cello
 
@@ -151,7 +154,6 @@ Whistle (79)
 
 
 MIDI UNKNOWN
-* Frozen Snowflower Pipe (Falling snowflakes)
 * Wraithsong Piano (?)
 * Windwraith's Pipes (?)
 * Sacred Echo (Mandolin)
