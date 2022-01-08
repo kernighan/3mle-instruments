@@ -7,7 +7,7 @@ Honor Shop:
 * Ballad of Auramancy (Clear Guitar) - 108 (Koto)
 * Croon of Shadowplay (Cheerful Guitar) - 28 (Electric Guitar (clean))
 * March of Defense (Soothing Guitar) - 27
-* Dance of Songcraft (Whistles)
+* Dance of Songcraft (Whistles) - 79
 * Dirge of Occultism (Trombone) - 58
 * Echoes of Malediction (Trombone) - 58
 * Nocturne of Witchcraft (Bagpipes) - 110
