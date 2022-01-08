@@ -162,9 +162,10 @@ Lead Voice (86)
 New Age (89)
 * Wraithsong Piano
 
+FX:Rain (97)
+* Sacred Echo
 
 MIDI UNKNOWN
-* Sacred Echo (Mandolin)
 * Windcreek Lute (Lute played by babbling brook)
 * Silver Oasis Lute (Lute played near the ocean)
 * Yata Flute (Happy Yata's party footsteps)

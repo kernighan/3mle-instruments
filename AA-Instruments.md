@@ -84,7 +84,7 @@ Event
 * Fortune Pipe (Pipe) - (Pan flute) - 76
 * Frozen Snowflower Pipe (Falling snowflakes) - (Caliope) 83
 * Lore Keeper's Flute - Shakuhachi - 78
-* Sacred Echo (Mandolin)
+* Sacred Echo (Mandolin) - FX: Rain - 97
 * Silver Oasis Lute (Lute played near the ocean)
 * Wraithsong Piano (New Age) - 89
 * Windwraith's Pipes (Lead Voice) - 86
