@@ -26,32 +26,41 @@ Guitars
 * Civilian Lute (Guitar) - Unknown
 
 Accoustic Guitar (Nylon strings) (25)
+* Harmonic Arpeggio Lute
+* Brilliant Hiram Guardian Lute
+* Glorious Hiram Guardian Lute
 
 Accoustic Guitar (Steel strings) (26)
 * Ironsong Lute
 
-Acoustic Bass (33)
-* Evensong Lute
-
 Soothing Guitar - Electric Guitar (jazz) (27)
-* Epherium Cloud Lute
-* Epherium Gale Lute
-* Epherium Meadow Lute
-* Hiram Guardian Lute
+* Erenor Lute
+* Cloud Lute
+* Gale Lute
+* Hellkissed Guitar
+* Meadow Lute
 * March of Defense
+* Hiram Guardian Lute
+* Radiant Hiram Guardian Lute
 
 Cheerful Guitar - Electric Guitar (clean) (28)
 * Croon of Shadowplay
 
 Powerful Guitar - Overdriven Guitar (30)
+* Aria of Archery
+* Epherium Tidal Lute
+* Epherium Wave Lute
+
+Impressive Guitar - Distortion Guitar (31)
 * Anthem of Battlerage
 * Epherium Life Lute
 * Epherium Mist Lute
 
-Impressive Guitar - Distortion Guitar (31)
-* Aria of Archery
-* Epherium Tidal Lute
-* Epherium Wave Lute
+Acoustic Bass (33)
+* Evensong Lute
+
+Picked Bass (35)
+* Flamesinger
 
 Clear Guitar - Koto (108)
 * Ballad of Auramancy
@@ -131,7 +140,6 @@ MIDI UNKNOWN
 * Wraithsong Piano (?)
 * Windwraith's Pipes (?)
 * Sacred Echo (Mandolin)
-* Flamesinger (Mandolin)
 * Windcreek Lute (Lute played by babbling brook)
 * Silver Oasis Lute (Lute played near the ocean)
 * Yata Flute (Happy Yata's party footsteps)

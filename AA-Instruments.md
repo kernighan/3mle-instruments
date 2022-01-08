@@ -2,11 +2,11 @@ Known list of instruments in Archeage:
 
 Honor Shop:
 
-* Anthem of Battlerage (Powerful Guitar) - 30 (Overdriven Guitar)
-* Aria of Archery (Impressive Guitar) - 31 (Distortion Guitar)
+* Anthem of Battlerage (Powerful Guitar) - 31 (Overdriven Guitar)
+* Aria of Archery (Impressive Guitar) - 30 (Distortion Guitar)
 * Ballad of Auramancy (Clear Guitar) - 108 (Koto)
 * Croon of Shadowplay (Cheerful Guitar) - 28 (Electric Guitar (clean))
-* March of Defense (Soothing Guitar) - 27 (Electric Guitar (jazz))
+* March of Defense (Soothing Guitar) - 27
 * Dance of Songcraft (Whistles)
 * Dirge of Occultism (Trombone) - 58
 * Echoes of Malediction (Trombone) - 58
@@ -37,11 +37,11 @@ Crafted
 
 * Epherium Cloud Lute (Soothing Guitar) - 27
 * Epherium Gale Lute (Soothing Guitar) - 27
-* Epherium Life Lute (Powerful Guitar) - 30
 * Epherium Meadow Lute (Soothing Guitar) - 27
-* Epherium Mist Lute (Powerful Guitar) - 30 
-* Epherium Tidal Lute (Impressive Guitar) - 31
-* Epherium Wave Lute (Impressive Guitar) - 31
+* Epherium Life Lute (Powerful Guitar) - 31
+* Epherium Mist Lute (Powerful Guitar) - 31
+* Epherium Tidal Lute (Impressive Guitar) - 30
+* Epherium Wave Lute (Impressive Guitar) - 30
 * Epherium Desert Flute (Bassoon)
 * Epherium Earth Flute (Bassoon)
 * Epherium Flame Flute (Clarinet) - 72
@@ -49,6 +49,8 @@ Crafted
 * Epherium Quake Flute (Clarinet) - 72
 * Epherium Sunset Flute (Oboe)
 * Epherium Wave Flute (Oboe)
+* Erenor Lute (Soothing Guitar) - 27
+* Harmonic Arpeggio Lute (Nylon string Guitar) - 25
 * Marianople Violin (Violin)
 * Wyrdwind Viola (Viola) (Also available from Vocation badges)
 * Sovereign’s Piano (Accoustic Grand Piano)
@@ -62,6 +64,9 @@ Crafted
 
 Hiram
 
+* Brilliant Hiram Guardian Lute (Nylon string Guitar) - 25
+* Glorious Hiram Guardian Lute (Nylon string Guitar) - 25
+* Radiant Hiram Guardian Lute (Soothing Guitar) - 27
 * Hiram Guardian Lute (Soothing Guitar) - 27
 * Hiram Guardian Flute (Clarinet) - 72
 
@@ -73,10 +78,12 @@ Events
 * Wraithsong Piano (?)
 * Windwraith's Pipes (?)
 * Sacred Echo (Mandolin)
-* Flamesinger (Mandolin)
+* Flamesinger (Mandolin) - (Picked Bass) 35
 * Windcreek Lute (Lute played by babbling brook)
 * Silver Oasis Lute (Lute played near the ocean)
 * Yata Flute (Happy Yata's party footsteps)
 * Ezna Spirit Flute (Cheerful voices of children)
 * Lore Keeper's Flute (Wind on an autumn night)
 
+Unknown
+* Hellkissed Guitar (Soothing guitar) - 27
