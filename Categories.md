@@ -56,9 +56,6 @@ Soothing Guitar - Electric Guitar (jazz) (27)
 * Hiram Guardian Lute
 * Radiant Hiram Guardian Lute
 
-Cheerful Guitar - Electric Guitar (clean) (28)
-* Croon of Shadowplay (Might be Sitar, 105, instead)
-
 Powerful Guitar - Overdriven Guitar (30)
 * Aria of Archery
 * Tidal Lute
@@ -136,6 +133,9 @@ Shakuhachi (78)
 
 Shamisen (107)
 * Cherry Blossom Shamisen
+
+Sitar (105)
+* Croon of Shadowplay
 
 String Ensemble 1 (49)
 * Brahms’ Harmonious Melody

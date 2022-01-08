@@ -5,7 +5,7 @@ Honor Shop:
 * Anthem of Battlerage (Powerful Guitar) - 31 (Overdriven Guitar)
 * Aria of Archery (Impressive Guitar) - 30 (Distortion Guitar)
 * Ballad of Auramancy (Clear Guitar) - 108 (Koto)
-* Croon of Shadowplay (Cheerful Guitar) - 28 (Electric Guitar (clean)) (MIGHT BE Sitar 105 instead)
+* Croon of Shadowplay - 28 (Sitar)
 * March of Defense (Soothing Guitar) - 27
 * Dance of Songcraft (Whistles) - 79
 * Dirge of Occultism (Trombone) - 58
