@@ -162,6 +162,9 @@ Lead Voice (86)
 New Age (89)
 * Wraithsong Piano
 
+Warm (90)
+* Ezna Spirit Flute
+
 FX: Atmosphere (100)
 * Windcreek Lute
 
@@ -171,7 +174,6 @@ FX:Rain (97)
 MIDI UNKNOWN
 * Silver Oasis Lute (Lute played near the ocean)
 * Yata Flute (Happy Yata's party footsteps)
-* Ezna Spirit Flute (Cheerful voices of children)
 
 OTHER
 * Liberty Drums (drums) MIDI CHANNEL 10, not an instrument table

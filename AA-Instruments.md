@@ -78,7 +78,7 @@ Hiram
 Event
 
 * Balsam Garden Instrument (Harp) - 47
-* Ezna Spirit Flute (Cheerful voices of children)
+* Ezna Spirit Flute (Pad 2: Warm) - 90
 * Cherry Blossom Lute (Mandolin) - (Dulcimer) 16
 * Flamesinger (Mandolin) - (Picked Bass) 35
 * Fortune Pipe (Pipe) - (Pan flute) - 76
