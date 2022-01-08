@@ -117,6 +117,9 @@ Piccolo (73)
 Recorder (75)
 * Catspaw Recorder
 
+Sawtooth Wave (82)
+* Winter Maiden's Warmth
+
 Saxophone
 
 Alto Sax (66)

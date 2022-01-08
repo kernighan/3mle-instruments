@@ -78,18 +78,19 @@ Hiram
 Event
 
 * Balsam Garden Instrument (Harp) - 47
-* Fortune Pipe (Pipe) - (Pan flute) - 76
+* Ezna Spirit Flute (Cheerful voices of children)
 * Cherry Blossom Lute (Mandolin) - (Dulcimer) 16
+* Flamesinger (Mandolin) - (Picked Bass) 35
+* Fortune Pipe (Pipe) - (Pan flute) - 76
 * Frozen Snowflower Pipe (Falling snowflakes)
+* Lore Keeper's Flute - Shakuhachi - 78
+* Sacred Echo (Mandolin)
+* Silver Oasis Lute (Lute played near the ocean)
 * Wraithsong Piano (?)
 * Windwraith's Pipes (?)
-* Sacred Echo (Mandolin)
-* Flamesinger (Mandolin) - (Picked Bass) 35
 * Windcreek Lute (Lute played by babbling brook)
-* Silver Oasis Lute (Lute played near the ocean)
+* Winter Maiden's Warmth - Sawtooth Wave - 82
 * Yata Flute (Happy Yata's party footsteps)
-* Ezna Spirit Flute (Cheerful voices of children)
-* Lore Keeper's Flute (Wind on an autumn night) - Shakuhachi - 78
 
 Unknown
 * Hellkissed Guitar (Soothing guitar) - 27
