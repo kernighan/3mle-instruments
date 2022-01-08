@@ -23,8 +23,8 @@ Starter gear:
 Marketplace (Gilda, Credits, etc)
 
 * Cherry Blossom Shamisen (Shamisen) - 107
-* Evensong Lute (Accoustic Guitar (nylon strings)) - 25
-* Ironsong Lute (Accoustic Guitar (steel strings)) - 26
+* Evensong Lute (Acoustic Bass) - 33
+* Ironsong Lute (Acoustic Guitar (steel strings)) - 26
 * Meadowlark Banjo (Banjo) - 106
 * Autumn Wind Horn (Horn) - 70
 * Catspaw Recorder (Recorder) - 75
