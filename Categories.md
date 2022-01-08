@@ -16,6 +16,9 @@ Caliope (83)
 Cello (43)
 * Triestes Cello
 
+Choir (92)
+* Mermaid's Double Bathtub
+
 Clarinet (72)
 * Erenor Flute
 * Radiant Erenor Flute
@@ -47,7 +50,7 @@ Soothing Guitar - Electric Guitar (jazz) (27)
 * Erenor Lute
 * Cloud Lute
 * Gale Lute
-* Hellkissed Guitar
+* Hellkissed Obsidian Guitar
 * Meadow Lute
 * March of Defense
 * Hiram Guardian Lute

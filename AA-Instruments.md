@@ -92,5 +92,8 @@ Event
 * Winter Maiden's Warmth - Sawtooth Wave - 82
 * Yata Flute (Happy Yata's party footsteps)
 
+Fishing Competition
+* Mermaid's Double Bathtub (Choir) - 92
+
 Unknown
-* Hellkissed Guitar (Soothing guitar) - 27
+* Hellkissed Obsidian Guitar (Soothing guitar) - 27
