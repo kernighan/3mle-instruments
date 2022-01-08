@@ -86,8 +86,8 @@ Event
 * Lore Keeper's Flute - Shakuhachi - 78
 * Sacred Echo (Mandolin)
 * Silver Oasis Lute (Lute played near the ocean)
-* Wraithsong Piano (?)
-* Windwraith's Pipes (?)
+* Wraithsong Piano (New Age) - 89
+* Windwraith's Pipes (Lead Voice) - 86
 * Windcreek Lute (Lute played by babbling brook)
 * Winter Maiden's Warmth - Sawtooth Wave - 82
 * Yata Flute (Happy Yata's party footsteps)

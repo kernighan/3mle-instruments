@@ -151,11 +151,16 @@ Whistle (79)
 * Dance of Songcraft
 
 
+Special Effects
+
+Lead Voice (86)
+* Windwraith's Pipes
+
+New Age (89)
+* Wraithsong Piano
 
 
 MIDI UNKNOWN
-* Wraithsong Piano (?)
-* Windwraith's Pipes (?)
 * Sacred Echo (Mandolin)
 * Windcreek Lute (Lute played by babbling brook)
 * Silver Oasis Lute (Lute played near the ocean)
