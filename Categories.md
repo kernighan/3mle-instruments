@@ -57,7 +57,7 @@ Soothing Guitar - Electric Guitar (jazz) (27)
 * Radiant Hiram Guardian Lute
 
 Cheerful Guitar - Electric Guitar (clean) (28)
-* Croon of Shadowplay
+* Croon of Shadowplay (Might be Sitar, 105, instead)
 
 Powerful Guitar - Overdriven Guitar (30)
 * Aria of Archery
