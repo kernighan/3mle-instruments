@@ -85,6 +85,9 @@ Harp (47)
 English Horn (70)
 * Autumn Wind Horn
 
+Kalimba (109)
+* Silver Oasis Lute
+
 Musicbox (11)
 * Andelph Orgel
 
@@ -144,6 +147,9 @@ Trombone (58)
 * Dirge of Occultism
 * Echoes of Malediction
 
+Tuba (59)
+Yata Flute
+
 Violin (41)
 * Marianople Violin
 
@@ -171,9 +177,6 @@ FX: Atmosphere (100)
 FX:Rain (97)
 * Sacred Echo
 
-MIDI UNKNOWN
-* Silver Oasis Lute (Lute played near the ocean)
-* Yata Flute (Happy Yata's party footsteps)
 
 OTHER
 * Liberty Drums (drums) MIDI CHANNEL 10, not an instrument table

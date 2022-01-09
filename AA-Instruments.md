@@ -85,12 +85,12 @@ Event
 * Frozen Snowflower Pipe (Falling snowflakes) - (Caliope) 83
 * Lore Keeper's Flute - Shakuhachi - 78
 * Sacred Echo (Mandolin) - (FX: Rain) - 97
-* Silver Oasis Lute (Lute played near the ocean)
+* Silver Oasis Lute (Kalimba) - 109
 * Wraithsong Piano (New Age) - 89
 * Windwraith's Pipes (Lead Voice) - 86
 * Windcreek Lute (FX: Atmosphere) - 100
 * Winter Maiden's Warmth - Sawtooth Wave - 82
-* Yata Flute (Happy Yata's party footsteps)
+* Yata Flute (Tuba) - 59
 
 Fishing Competition
 * Mermaid's Double Bathtub (Choir) - 92
