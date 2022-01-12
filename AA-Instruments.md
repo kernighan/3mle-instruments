@@ -79,17 +79,17 @@ Event
 
 * Balsam Garden Instrument (Harp) - 47
 * Ezna Spirit Flute (Pad 2: Warm) - 90
-* Cherry Blossom Lute (Mandolin) - (Dulcimer) 16
+* Cherry Blossom Lute (Dulcimer) -  16
 * Flamesinger (Mandolin) - (Picked Bass) 35
 * Fortune Pipe (Pipe) - (Pan flute) - 76
-* Frozen Snowflower Pipe (Falling snowflakes) - (Caliope) 83
-* Lore Keeper's Flute - Shakuhachi - 78
+* Frozen Snowflower Pipe (Caliope) -  83
+* Lore Keeper's Flute - (Shakuhachi) - 78
 * Sacred Echo (Mandolin) - (FX: Rain) - 97
 * Silver Oasis Lute (Kalimba) - 109
 * Wraithsong Piano (New Age) - 89
 * Windwraith's Pipes (Lead Voice) - 86
 * Windcreek Lute (FX: Atmosphere) - 100
-* Winter Maiden's Warmth - Sawtooth Wave - 82
+* Winter Maiden's Warmth - (Sawtooth Wave) - 82
 * Yata Flute (Tuba) - 59
 
 Fishing Competition

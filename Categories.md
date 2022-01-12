@@ -148,7 +148,7 @@ Trombone (58)
 * Echoes of Malediction
 
 Tuba (59)
-Yata Flute
+* Yata Flute
 
 Violin (41)
 * Marianople Violin
