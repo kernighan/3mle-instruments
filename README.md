@@ -22,3 +22,5 @@ Start 3MLE
 Go to Settings -> Preferences -> MIDI
 
 At the bottom is an option to change the instrument dictionary.  Select the Archeage.def file
+
+LAST UPDATE: January 17, 2022
