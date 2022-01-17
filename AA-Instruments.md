@@ -80,7 +80,7 @@ Event
 * Balsam Garden Instrument (Harp) - 47
 * Ezna Spirit Flute (Pad 2: Warm) - 90
 * Cherry Blossom Lute (Dulcimer) -  16
-* Flamesinger (Mandolin) - (Picked Bass) 35
+* Flamesinger (Mandolin) - (Slap Bass 1)-  37
 * Fortune Pipe (Pipe) - (Pan flute) - 76
 * Frozen Snowflower Pipe (Caliope) -  83
 * Lore Keeper's Flute - (Shakuhachi) - 78

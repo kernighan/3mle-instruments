@@ -69,7 +69,7 @@ Impressive Guitar - Distortion Guitar (31)
 Acoustic Bass (33)
 * Evensong Lute
 
-Picked Bass (35)
+Slap Bass 1 (37)
 * Flamesinger
 
 Clear Guitar - Koto (108)
