@@ -89,7 +89,7 @@ Event
 * Wraithsong Piano (New Age) - 89
 * Windwraith's Pipes (Lead Voice) - 86
 * Windcreek Lute (FX: Atmosphere) - 100
-* Winter Maiden's Warmth - (Sawtooth Wave) - 82
+* Winter Maiden's Warmth - (Shanai) - 112
 * Yata Flute (Tuba) - 59
 
 Fishing Competition

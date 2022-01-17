@@ -123,9 +123,6 @@ Piccolo (73)
 Recorder (75)
 * Catspaw Recorder
 
-Sawtooth Wave (82)
-* Winter Maiden's Warmth
-
 Saxophone
 
 Alto Sax (66)
@@ -136,6 +133,9 @@ Shakuhachi (78)
 
 Shamisen (107)
 * Cherry Blossom Shamisen
+
+Shanai (112)
+* Winter Maiden's Warmth
 
 Sitar (105)
 * Croon of Shadowplay
